@@ -8,6 +8,7 @@
 ## Community Standards
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
 - [ERC1156](https://blog.enjincoin.io/erc-1155-the-crypto-item-standard-ac9cf1c5a226)
+- [Ethereum Token Standards Explained](https://www.investinblockchain.com/what-are-ethereum-tokens/)
 
 ## White papers
 - [Ethereum White Paper](http://gavwood.com/paper.pdf)
@@ -30,4 +31,6 @@
 
 ## Others
 - [Ethereum Use Cases](http://ethereumusecases.com/)
-
+- [Consensus Algorithms Explained](https://www.investinblockchain.com/consensus-algorithms-explained/)
+- [Ethereum Casper Protocol](https://www.investinblockchain.com/ethereum-casper-protocol/)
+- [Byzantine Fault Tolerance - Introduction](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
