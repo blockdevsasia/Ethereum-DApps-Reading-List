@@ -37,9 +37,9 @@
 - [Byzantine Fault Tolerance - Introduction](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
 
 ## Smart Contract Security
-- [Decompiling: Signature DB] (https://www.4byte.directory/signatures/)
-- [Smart Contract Weakness Classification Registry] (https://github.com/SmartContractSecurity/SWC-registry)
-- [Papers and Tools for Smart Contract Security Analysis] (https://github.com/hyeonleee/Smart_Contract_Security_Analysis)
+- [Decompiling: Signature DB](https://www.4byte.directory/signatures/)
+- [Smart Contract Weakness Classification Registry](https://github.com/SmartContractSecurity/SWC-registry)
+- [Papers and Tools for Smart Contract Security Analysis](https://github.com/hyeonleee/Smart_Contract_Security_Analysis)
 
 ## Oracles / Oracle platforms
-- [DOS Network] (https://dosnetwork.github.io/docs/#/homepage)
+- [DOS Network](https://dosnetwork.github.io/docs/#/homepage)
